@@ -1,0 +1,6 @@
+{
+  "cSpell.words": ["Isub", "signin", "Validaded"],
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma"
+  }
+}
